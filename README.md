@@ -1,5 +1,3 @@
-Here’s a polished, complete **README.md** ready for your GitHub repo, formatted and cross-platform friendly:
-
 ```markdown
 # RC Branch Automation Script
 
